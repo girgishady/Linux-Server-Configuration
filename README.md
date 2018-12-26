@@ -84,7 +84,7 @@ To run the application:
 8- **Set it up in your server so that it functions correctly when visiting your server’s IP address in a browser**
 * Install virtual environment, Flask and the project's dependencies
 - using the information and configuration [here](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
-*Configure and enable a new virtual host
+* Configure and enable a new virtual host
 - using information and configuration [here](https://www.digitalocean.com/community/tutorials/how-to-run-django-with-mod_wsgi-and-apache-with-a-virtualenv-python-environment-on-a-debian-vps)
 * Update OAuth authorized JavaScript origins
 - update the url of the website in google authorized URI.
